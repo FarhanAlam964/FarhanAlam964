@@ -47,7 +47,7 @@ Here are some of my favorite projects:
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,js,react,django,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,c,cpp,react,django,mysql,mongodb)](https://skillicons.dev)
 
 ## 📫 Get in Touch
 
