@@ -45,6 +45,10 @@ Here are some of my favorite projects:
 
 - 🎖️ **Certified Full Stack Web Developer - FreeCodeCamp** - Completed the comprehensive full stack development certification program.
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,js,react,django,mysql,mongodb)](https://skillicons.dev)
+
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: [Farhan Alam](https://www.linkedin.com/in/yourprofile)
