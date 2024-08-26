@@ -48,8 +48,7 @@ Here are some of my favorite projects:
 ## 📫 Get in Touch
 
 - 💼 LinkedIn: [Farhan Alam](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+- 📧 Email: [farjanamurshed669@gmail.com](mailto:your.email@example.com)
 - 🌐 Portfolio: [farhanalam.dev](https://yourportfolio.com)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. I'm always eager to connect with fellow developers and tech enthusiasts!
