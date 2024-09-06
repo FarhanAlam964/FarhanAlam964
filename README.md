@@ -4,10 +4,8 @@ Welcome to my GitHub profile! I'm a passionate web developer dedicated to creati
 
 ## 🚀 About Me
 
-- 🌍 Based in [Your Location]
+- 🌍 I live in Dhamrai , Dhaka , Bangladesh
 - 💻 I specialize in **Web Development** with a focus on **Frontend** and **Backend** technologies.
-- 🎓 I hold a degree in [Your Degree] from [Your University/College] (or I'm currently studying at [Your Institution] if applicable).
-- 🔭 I’m currently working on enhancing my skills in [Your Current Interests/Technologies] and contributing to open-source projects.
 
 ## 🛠️ Skills
 
